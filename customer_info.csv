@@ -1,0 +1,1001 @@
+custID,Item,Purchase Date,Amount,Category
+350,Eggs,2024-09-09,57716,groceries
+672,Gold Chain,2024-08-12,484260,Decoration
+752,Belt,2024-09-12,452944,casuals
+965,Cheese,2024-08-13,82863,groceries
+122,Boots,2024-09-25,39492,casuals
+987,Sweater,2024-09-28,208467,casuals
+992,Gold Chain,2024-08-13,279100,Decoration
+888,Scarf,2024-08-14,803,casuals
+482,Headphones,2024-09-22,76168,Electronics
+253,Sweater,2024-09-15,143501,casuals
+646,Hat,2024-08-01,365146,casuals
+190,Sofa,2024-08-28,102314,Furniture
+551,Couch,2024-08-18,7177,Furniture
+832,Headset,2024-08-30,172323,Electronics
+371,Monitor,2024-08-19,202777,Electronics
+103,Jacket,2024-09-29,338938,casuals
+236,Boots,2024-08-06,66393,casuals
+404,Banana,2024-09-22,296819,groceries
+402,Banana,2024-09-18,15799,groceries
+234,Coffee,2024-09-12,52640,groceries
+987,Jacket,2024-08-31,432829,casuals
+566,Cabinet,2024-08-17,139104,Furniture
+230,Camera,2024-09-09,387788,Electronics
+948,Camera,2024-08-31,157872,Electronics
+164,Eggs,2024-09-14,119535,groceries
+407,Coat,2024-09-08,469637,casuals
+938,Cabinet,2024-08-07,280263,Furniture
+396,Bed,2024-09-23,169505,Furniture
+743,Coconut,2024-09-10,367025,groceries
+550,Wall Flowers,2024-08-24,161703,Decoration
+630,Gold Chain,2024-08-05,78206,Decoration
+882,Boots,2024-09-29,294932,casuals
+350,Table,2024-09-27,309305,Furniture
+236,Hat,2024-08-17,286604,casuals
+951,Coconut,2024-09-04,291556,groceries
+658,Yogurt,2024-09-15,121123,groceries
+574,Chocolate,2024-09-05,428069,groceries
+165,Cereal,2024-08-14,294163,groceries
+719,Desk,2024-08-19,329005,Furniture
+110,Coffee,2024-09-01,176897,groceries
+878,Gold Chain,2024-09-24,88513,Decoration
+140,Table,2024-08-02,235727,Furniture
+321,Cabinet,2024-08-28,316332,Furniture
+514,Juice,2024-08-24,183629,groceries
+808,Gold Chain,2024-08-17,385922,Decoration
+879,Mobile,2024-09-11,385046,Electronics
+147,Headset,2024-09-21,417254,Electronics
+329,Milk,2024-08-18,336014,groceries
+442,Gold Chain,2024-09-05,195472,Decoration
+715,Boots,2024-08-14,174935,casuals
+496,Bed,2024-08-14,495329,Furniture
+700,Sofa,2024-08-11,167590,Furniture
+227,Rice Packet,2024-09-25,102332,groceries
+849,Wall Flowers,2024-09-08,102966,Decoration
+136,Router,2024-09-22,272090,Electronics
+425,Keyboard,2024-08-15,139934,Electronics
+564,Cabinet,2024-08-29,214502,Furniture
+376,Bookshelf,2024-08-13,361368,Furniture
+394,Camera,2024-09-13,258286,Electronics
+527,Rice Packet,2024-08-02,48967,groceries
+216,Gold Chain,2024-08-22,301369,Decoration
+649,Bread,2024-08-23,20878,groceries
+154,Sweater,2024-08-19,394010,casuals
+189,Bed,2024-08-04,236409,Furniture
+840,Bread,2024-08-25,232413,groceries
+593,Keyboard,2024-08-28,190424,Electronics
+785,Bed,2024-09-26,331239,Furniture
+793,Wall Flowers,2024-09-18,32892,Decoration
+145,Rice Packet,2024-09-15,478763,groceries
+290,Chair,2024-09-30,20005,Furniture
+747,Cheese,2024-09-30,495693,groceries
+663,Gold Chain,2024-08-01,97079,Decoration
+695,Gold Chain,2024-09-15,324258,Decoration
+610,Couch,2024-09-18,373400,Furniture
+757,Bookshelf,2024-08-30,99475,Furniture
+663,Scanner,2024-08-10,112397,Electronics
+485,Projector,2024-08-23,380004,Electronics
+205,Chair,2024-09-17,32927,Furniture
+707,Eggs,2024-08-30,133755,groceries
+513,Wall Flowers,2024-08-31,259376,Decoration
+137,Gold Chain,2024-08-07,163941,Decoration
+966,Banana,2024-09-13,271709,groceries
+810,Gloves,2024-08-24,246222,casuals
+102,Rice Packet,2024-08-31,63160,groceries
+816,Cereal,2024-09-06,295274,groceries
+524,T-shirt,2024-08-11,137459,casuals
+506,Gold Chain,2024-08-11,267276,Decoration
+193,Scanner,2024-09-10,133691,Electronics
+430,Wall Flowers,2024-08-27,462159,Decoration
+812,Coconut,2024-09-16,276007,groceries
+596,Wall Flowers,2024-08-21,215627,Decoration
+408,Jeans,2024-08-15,266543,casuals
+364,Boots,2024-09-23,471284,casuals
+881,Wall Flowers,2024-09-04,262472,Decoration
+859,Jacket,2024-09-07,139801,casuals
+740,Cabinet,2024-08-15,432241,Furniture
+253,Wall Flowers,2024-08-06,404047,Decoration
+348,Gold Chain,2024-08-27,449692,Decoration
+226,Wall Flowers,2024-09-11,1610,Decoration
+344,Yogurt,2024-09-07,307877,groceries
+566,Hat,2024-09-08,408542,casuals
+456,Milk,2024-09-01,212042,groceries
+952,Yogurt,2024-08-06,182426,groceries
+467,Gold Chain,2024-09-29,146855,Decoration
+782,Wall Flowers,2024-08-21,431981,Decoration
+365,Mouse,2024-09-11,49499,Electronics
+450,Milk,2024-08-13,131827,groceries
+443,Speaker,2024-09-05,248509,Electronics
+634,Shirt,2024-09-05,109616,casuals
+598,Tablet,2024-08-07,95627,Electronics
+572,Gold Chain,2024-09-26,137579,Decoration
+655,Jeans,2024-08-02,53235,casuals
+258,Wall Flowers,2024-09-01,157470,Decoration
+978,Wall Flowers,2024-08-07,3742,Decoration
+252,Desk,2024-09-10,347475,Furniture
+742,Gold Chain,2024-09-14,14947,Decoration
+826,Banana,2024-08-09,107074,groceries
+650,Mobile,2024-09-27,422598,Electronics
+600,Boots,2024-09-17,406274,casuals
+901,Wall Flowers,2024-09-22,493870,Decoration
+450,Bookshelf,2024-09-02,462168,Furniture
+113,Headset,2024-08-02,146944,Electronics
+721,Sofa,2024-08-22,404496,Furniture
+684,TV,2024-09-07,77715,Electronics
+616,Webcam,2024-09-22,152607,Electronics
+273,Desk,2024-09-04,68760,Furniture
+180,Monitor,2024-08-05,354823,Electronics
+150,Gold Chain,2024-09-14,352202,Decoration
+752,Couch,2024-08-01,161047,Furniture
+853,Sweater,2024-08-19,404990,casuals
+650,T-shirt,2024-08-27,320627,casuals
+431,Belt,2024-08-10,307731,casuals
+667,T-shirt,2024-09-15,279262,casuals
+340,Gold Chain,2024-08-15,133366,Decoration
+208,Sweater,2024-09-11,152766,casuals
+104,Gold Chain,2024-09-25,319993,Decoration
+849,Gold Chain,2024-09-24,217834,Decoration
+841,Belt,2024-08-22,242295,casuals
+483,Chocolate,2024-09-11,113108,groceries
+174,Eggs,2024-09-23,354430,groceries
+191,Chocolate,2024-08-07,305261,groceries
+635,Headset,2024-09-02,420955,Electronics
+345,Router,2024-09-08,149396,Electronics
+868,Gloves,2024-08-19,102684,casuals
+682,Headphones,2024-09-14,145993,Electronics
+383,Cereal,2024-08-17,391345,groceries
+131,Chair,2024-08-13,113636,Furniture
+246,Sofa,2024-08-29,53977,Furniture
+464,Wall Flowers,2024-08-21,93068,Decoration
+524,Jeans,2024-08-03,186793,casuals
+240,Mobile,2024-09-02,158342,Electronics
+324,Wall Flowers,2024-09-28,414420,Decoration
+312,Cereal,2024-08-17,415813,groceries
+671,Jacket,2024-09-11,180054,casuals
+774,Table,2024-08-28,114990,Furniture
+939,Wall Flowers,2024-08-06,425694,Decoration
+199,Gold Chain,2024-08-10,319804,Decoration
+315,Bookshelf,2024-09-27,337456,Furniture
+431,Wall Flowers,2024-09-10,223318,Decoration
+422,Wall Flowers,2024-08-02,210310,Decoration
+932,Jacket,2024-08-27,17816,casuals
+952,Wall Flowers,2024-08-03,377416,Decoration
+472,Juice,2024-09-14,397695,groceries
+398,Sofa,2024-08-27,398989,Furniture
+676,Wall Flowers,2024-09-09,18430,Decoration
+753,Gold Chain,2024-09-17,134216,Decoration
+511,Router,2024-08-14,252115,Electronics
+690,Table,2024-08-17,116052,Furniture
+810,Watch,2024-09-23,329377,Electronics
+739,Gold Chain,2024-08-03,495172,Decoration
+602,Gold Chain,2024-09-21,215446,Decoration
+305,Coconut,2024-08-09,41440,groceries
+626,Monitor,2024-08-11,301003,Electronics
+922,Gold Chain,2024-09-23,62933,Decoration
+777,Yogurt,2024-08-28,90141,groceries
+860,Banana,2024-08-16,56668,groceries
+647,Bed,2024-09-19,292132,Furniture
+276,Milk,2024-08-20,412084,groceries
+580,Watch,2024-08-11,133470,Electronics
+720,Rice Packet,2024-08-17,289501,groceries
+888,Bed,2024-09-07,140923,Furniture
+685,Router,2024-09-15,110505,Electronics
+845,Gold Chain,2024-08-07,454519,Decoration
+730,Wall Flowers,2024-09-06,247769,Decoration
+255,Cereal,2024-08-30,131990,groceries
+348,Milk,2024-09-17,188465,groceries
+307,Jacket,2024-08-15,54883,casuals
+722,Sofa,2024-09-19,464950,Furniture
+989,Table,2024-08-26,370372,Furniture
+312,Cabinet,2024-08-28,223028,Furniture
+306,Cereal,2024-09-28,196846,groceries
+738,Couch,2024-08-02,164741,Furniture
+872,Desk,2024-08-29,158012,Furniture
+777,Banana,2024-08-23,314256,groceries
+302,Mobile,2024-08-18,318680,Electronics
+972,Gold Chain,2024-08-31,74870,Decoration
+785,Wall Flowers,2024-09-06,396247,Decoration
+687,Orange,2024-09-18,96859,groceries
+882,Belt,2024-08-24,332898,casuals
+974,Bed,2024-08-20,432406,Furniture
+478,Gold Chain,2024-08-29,392226,Decoration
+114,Tablet,2024-08-01,32095,Electronics
+571,Scanner,2024-09-25,388184,Electronics
+454,Bookshelf,2024-09-02,450419,Furniture
+260,T-shirt,2024-08-24,306780,casuals
+517,Bread,2024-08-09,387843,groceries
+374,Sweater,2024-09-06,196461,casuals
+743,Wall Flowers,2024-09-22,9541,Decoration
+253,Sofa,2024-08-18,46705,Furniture
+114,Desk,2024-08-14,212069,Furniture
+475,Table,2024-08-17,486292,Furniture
+954,Desk,2024-09-15,205858,Furniture
+350,Orange,2024-09-16,345473,groceries
+998,Coconut,2024-09-21,157158,groceries
+294,Gold Chain,2024-08-22,486941,Decoration
+797,Jacket,2024-09-28,132391,casuals
+681,Jacket,2024-08-22,119576,casuals
+840,Coat,2024-09-14,268169,casuals
+663,Coat,2024-08-10,415789,casuals
+209,Sofa,2024-09-14,495718,Furniture
+728,Juice,2024-08-24,381330,groceries
+775,Wall Flowers,2024-09-13,28452,Decoration
+300,Wall Flowers,2024-08-03,478991,Decoration
+196,Cereal,2024-09-19,247345,groceries
+103,Sweater,2024-09-22,440551,casuals
+362,Bookshelf,2024-08-05,267253,Furniture
+215,Sweater,2024-09-22,112725,casuals
+208,Gold Chain,2024-08-31,177927,Decoration
+324,Belt,2024-09-18,170213,casuals
+339,Bookshelf,2024-08-10,85606,Furniture
+534,Cabinet,2024-09-16,125009,Furniture
+984,Gold Chain,2024-08-30,416238,Decoration
+527,Bookshelf,2024-09-28,280364,Furniture
+751,Desk,2024-09-17,202356,Furniture
+895,Coconut,2024-09-29,197575,groceries
+122,Chair,2024-08-10,411772,Furniture
+680,Gold Chain,2024-08-09,194635,Decoration
+174,Router,2024-09-14,15883,Electronics
+669,Gold Chain,2024-09-19,378013,Decoration
+890,Printer,2024-08-07,467966,Electronics
+649,Shirt,2024-08-22,179983,casuals
+103,Gold Chain,2024-09-25,23520,Decoration
+745,Bookshelf,2024-08-27,90671,Furniture
+545,Wall Flowers,2024-08-09,339058,Decoration
+304,Projector,2024-08-30,320820,Electronics
+146,Mouse,2024-08-06,79688,Electronics
+784,Watch,2024-08-16,373948,Electronics
+689,Wall Flowers,2024-08-25,174507,Decoration
+876,Boots,2024-09-01,146710,casuals
+533,Eggs,2024-09-16,127625,groceries
+334,Desk,2024-09-22,343138,Furniture
+914,Hat,2024-08-26,387469,casuals
+527,Speaker,2024-08-10,133443,Electronics
+983,Belt,2024-08-29,433864,casuals
+594,Chocolate,2024-09-26,135335,groceries
+273,Gold Chain,2024-09-24,34059,Decoration
+246,Desk,2024-09-24,287608,Furniture
+889,Juice,2024-09-07,39085,groceries
+968,Cheese,2024-08-31,298915,groceries
+420,Router,2024-08-27,222355,Electronics
+932,Jacket,2024-09-27,390060,casuals
+102,Boots,2024-08-07,98058,casuals
+423,Cereal,2024-09-18,395784,groceries
+528,Coat,2024-08-17,45338,casuals
+641,Banana,2024-08-04,372615,groceries
+170,Gold Chain,2024-09-04,72008,Decoration
+558,Coconut,2024-08-21,343310,groceries
+874,Wall Flowers,2024-09-22,177667,Decoration
+828,Sweater,2024-08-31,312501,casuals
+354,Printer,2024-08-05,272689,Electronics
+503,Table,2024-08-07,62109,Furniture
+430,Chocolate,2024-09-05,488066,groceries
+809,Wall Flowers,2024-08-03,206718,Decoration
+178,Boots,2024-08-24,81835,casuals
+828,T-shirt,2024-09-21,169163,casuals
+987,Wall Flowers,2024-08-10,316036,Decoration
+305,Bookshelf,2024-08-22,137371,Furniture
+544,Table,2024-09-14,132689,Furniture
+902,Coffee,2024-08-05,113346,groceries
+431,Wall Flowers,2024-09-28,436350,Decoration
+994,Bread,2024-09-23,39151,groceries
+857,Shirt,2024-08-10,252825,casuals
+658,Cabinet,2024-08-06,53621,Furniture
+738,Table,2024-09-07,275533,Furniture
+582,Wall Flowers,2024-09-19,485448,Decoration
+916,Gold Chain,2024-09-21,266022,Decoration
+509,Couch,2024-09-17,322599,Furniture
+639,Couch,2024-09-23,335079,Furniture
+470,Coat,2024-09-09,174792,casuals
+447,TV,2024-08-07,352190,Electronics
+247,Wall Flowers,2024-08-10,14436,Decoration
+419,Wall Flowers,2024-09-26,411389,Decoration
+987,Gold Chain,2024-08-12,110821,Decoration
+574,Gold Chain,2024-08-19,124250,Decoration
+269,Headset,2024-08-03,245571,Electronics
+298,Webcam,2024-08-08,499925,Electronics
+192,Coat,2024-09-27,291728,casuals
+843,Table,2024-08-17,42190,Furniture
+413,Wall Flowers,2024-09-24,430744,Decoration
+425,Wall Flowers,2024-09-04,151989,Decoration
+993,Gold Chain,2024-09-02,60070,Decoration
+839,Belt,2024-08-22,359878,casuals
+538,Jacket,2024-09-26,13516,casuals
+340,T-shirt,2024-08-24,381537,casuals
+745,Sweater,2024-08-02,68275,casuals
+587,Gold Chain,2024-09-07,292378,Decoration
+985,Webcam,2024-09-07,138718,Electronics
+809,Shirt,2024-09-05,326202,casuals
+622,Bread,2024-09-12,44440,groceries
+835,Cabinet,2024-09-21,268304,Furniture
+309,Cereal,2024-08-22,208263,groceries
+950,Gloves,2024-09-22,101643,casuals
+474,Laptop,2024-08-31,195940,Electronics
+992,Sweater,2024-09-08,145082,casuals
+959,Bookshelf,2024-09-07,74032,Furniture
+517,Jeans,2024-08-24,29195,casuals
+243,Cereal,2024-09-27,368232,groceries
+609,Gloves,2024-08-23,24389,casuals
+751,Scarf,2024-08-16,459144,casuals
+688,Cheese,2024-09-17,146924,groceries
+566,Cereal,2024-08-17,253450,groceries
+724,Bread,2024-08-28,87824,groceries
+206,Scanner,2024-09-20,61658,Electronics
+984,Gold Chain,2024-08-14,114631,Decoration
+981,Desk,2024-08-18,107225,Furniture
+371,Coffee,2024-08-02,238651,groceries
+621,Keyboard,2024-08-14,307134,Electronics
+288,Mobile,2024-09-16,84206,Electronics
+437,Camera,2024-09-12,79240,Electronics
+558,Camera,2024-08-26,26920,Electronics
+771,Bookshelf,2024-08-26,89190,Furniture
+717,Gold Chain,2024-09-24,328429,Decoration
+689,Scanner,2024-09-22,441903,Electronics
+439,Boots,2024-08-24,332939,casuals
+113,Bread,2024-08-05,483645,groceries
+955,Sofa,2024-09-07,254971,Furniture
+467,Banana,2024-08-06,323096,groceries
+980,Projector,2024-09-12,82338,Electronics
+357,Gold Chain,2024-09-22,34050,Decoration
+325,Coat,2024-09-21,118392,casuals
+516,Shirt,2024-09-11,56564,casuals
+371,Chair,2024-09-19,33013,Furniture
+584,Couch,2024-09-04,200407,Furniture
+349,Eggs,2024-08-17,237096,groceries
+572,Wall Flowers,2024-09-18,499770,Decoration
+902,Bed,2024-09-15,468181,Furniture
+549,Watch,2024-08-15,423474,Electronics
+175,Keyboard,2024-09-16,189578,Electronics
+478,TV,2024-09-19,100837,Electronics
+801,Couch,2024-09-24,143240,Furniture
+674,Coffee,2024-08-23,440289,groceries
+870,Cabinet,2024-09-10,453673,Furniture
+243,T-shirt,2024-09-24,460444,casuals
+446,Rice Packet,2024-09-22,43264,groceries
+591,Coffee,2024-08-13,231797,groceries
+637,Rice Packet,2024-08-02,304220,groceries
+279,Desk,2024-09-17,91410,Furniture
+898,TV,2024-09-11,44754,Electronics
+521,Printer,2024-09-03,218609,Electronics
+576,Cheese,2024-09-29,499366,groceries
+844,Wall Flowers,2024-08-29,370150,Decoration
+428,Chocolate,2024-08-15,481023,groceries
+543,Couch,2024-08-14,231336,Furniture
+842,Rice Packet,2024-09-07,460110,groceries
+956,Wall Flowers,2024-09-16,169883,Decoration
+818,Bread,2024-08-06,464551,groceries
+975,Wall Flowers,2024-09-17,168439,Decoration
+675,Rice Packet,2024-09-01,459800,groceries
+251,Gold Chain,2024-09-22,272096,Decoration
+569,Cheese,2024-08-22,446608,groceries
+232,Table,2024-08-18,368281,Furniture
+297,Desk,2024-09-24,292039,Furniture
+300,Gold Chain,2024-08-08,29333,Decoration
+879,Hat,2024-08-01,157812,casuals
+879,Bookshelf,2024-08-20,306866,Furniture
+999,Boots,2024-09-19,141821,casuals
+955,Laptop,2024-09-11,432912,Electronics
+479,Watch,2024-09-14,329308,Electronics
+664,Wall Flowers,2024-09-19,215869,Decoration
+583,Sweater,2024-08-23,374631,casuals
+487,Headset,2024-08-11,267079,Electronics
+304,Yogurt,2024-08-22,125499,groceries
+855,Gold Chain,2024-09-04,346148,Decoration
+703,Shirt,2024-09-15,48464,casuals
+651,Mobile,2024-09-13,338550,Electronics
+455,Printer,2024-08-23,341110,Electronics
+651,Coconut,2024-09-17,473008,groceries
+650,Watch,2024-09-22,138382,Electronics
+935,Gold Chain,2024-09-16,150146,Decoration
+715,Apple,2024-09-05,463761,groceries
+260,Headphones,2024-08-16,409254,Electronics
+941,Wall Flowers,2024-08-30,401088,Decoration
+719,Jeans,2024-08-26,230598,casuals
+356,Cheese,2024-09-15,253163,groceries
+909,Gold Chain,2024-08-07,208247,Decoration
+886,Jeans,2024-09-23,492857,casuals
+184,T-shirt,2024-09-13,370194,casuals
+222,Gold Chain,2024-09-03,195463,Decoration
+917,Jacket,2024-09-23,173987,casuals
+534,Webcam,2024-09-29,210261,Electronics
+325,Yogurt,2024-09-08,74372,groceries
+258,Bed,2024-08-31,35758,Furniture
+369,Hat,2024-09-17,343753,casuals
+868,Tablet,2024-08-10,260687,Electronics
+904,Wall Flowers,2024-09-20,313350,Decoration
+703,Apple,2024-09-25,222186,groceries
+134,Gloves,2024-09-08,360213,casuals
+829,Bookshelf,2024-08-05,212174,Furniture
+466,Router,2024-08-10,65459,Electronics
+824,Desk,2024-09-17,168644,Furniture
+765,Chair,2024-09-08,438168,Furniture
+840,Keyboard,2024-08-10,173965,Electronics
+426,Wall Flowers,2024-09-17,132396,Decoration
+511,Coconut,2024-08-03,123609,groceries
+282,Table,2024-08-31,237066,Furniture
+801,Belt,2024-09-15,436580,casuals
+561,Coat,2024-09-05,386355,casuals
+794,Wall Flowers,2024-08-29,370780,Decoration
+551,Cabinet,2024-08-15,222661,Furniture
+969,Desk,2024-08-11,291733,Furniture
+311,Desk,2024-09-04,201524,Furniture
+223,Apple,2024-09-22,399039,groceries
+727,Wall Flowers,2024-08-07,139495,Decoration
+327,T-shirt,2024-09-26,16362,casuals
+572,Tablet,2024-09-17,497788,Electronics
+320,Orange,2024-09-28,367287,groceries
+325,Mobile,2024-09-02,257580,Electronics
+656,Couch,2024-09-25,321031,Furniture
+569,Sweater,2024-09-11,62405,casuals
+384,Jeans,2024-09-15,492330,casuals
+461,Wall Flowers,2024-08-15,266535,Decoration
+493,Coconut,2024-08-17,31437,groceries
+263,T-shirt,2024-09-02,435885,casuals
+734,Yogurt,2024-09-19,52740,groceries
+101,Gold Chain,2024-09-12,251427,Decoration
+688,Wall Flowers,2024-09-05,402700,Decoration
+829,Shirt,2024-09-12,436613,casuals
+714,Wall Flowers,2024-09-08,91122,Decoration
+391,Headphones,2024-09-10,157327,Electronics
+424,TV,2024-09-29,88129,Electronics
+774,Gold Chain,2024-08-22,114584,Decoration
+790,Gold Chain,2024-09-27,154106,Decoration
+605,Gold Chain,2024-08-15,79784,Decoration
+454,Sofa,2024-09-01,17462,Furniture
+229,Cabinet,2024-09-28,373970,Furniture
+816,Gold Chain,2024-09-04,68144,Decoration
+623,Wall Flowers,2024-09-01,315109,Decoration
+543,Belt,2024-08-15,476224,casuals
+305,Speaker,2024-09-22,120093,Electronics
+953,Wall Flowers,2024-09-05,475255,Decoration
+235,Cabinet,2024-08-22,618,Furniture
+165,Wall Flowers,2024-09-15,259149,Decoration
+637,Apple,2024-08-01,395960,groceries
+440,Camera,2024-08-07,292697,Electronics
+230,Projector,2024-08-16,371630,Electronics
+239,Cheese,2024-08-18,339523,groceries
+774,Hat,2024-08-28,138629,casuals
+765,Juice,2024-08-14,343285,groceries
+779,Wall Flowers,2024-09-03,291863,Decoration
+352,Chair,2024-08-09,93404,Furniture
+665,Headphones,2024-09-30,78860,Electronics
+518,Coat,2024-08-05,221371,casuals
+238,Cabinet,2024-08-31,111097,Furniture
+888,Coat,2024-09-20,198785,casuals
+275,Rice Packet,2024-09-22,448061,groceries
+334,Jeans,2024-09-13,301156,casuals
+720,Shirt,2024-08-11,240993,casuals
+331,Coffee,2024-08-04,109747,groceries
+839,Cereal,2024-09-04,198836,groceries
+309,Projector,2024-09-26,448266,Electronics
+833,Boots,2024-08-28,133463,casuals
+780,Router,2024-08-29,359851,Electronics
+272,Bed,2024-08-28,272319,Furniture
+621,Eggs,2024-08-28,243902,groceries
+458,Gold Chain,2024-08-02,128680,Decoration
+979,Gloves,2024-09-14,216834,casuals
+162,Couch,2024-08-27,397372,Furniture
+148,Scarf,2024-08-11,97583,casuals
+917,Bed,2024-09-06,71169,Furniture
+233,Gold Chain,2024-09-21,44350,Decoration
+109,Monitor,2024-09-01,409839,Electronics
+290,Sofa,2024-08-17,81148,Furniture
+946,Belt,2024-09-06,21224,casuals
+521,Gloves,2024-08-28,240414,casuals
+529,Chair,2024-09-19,134203,Furniture
+225,Watch,2024-09-17,490299,Electronics
+493,Coat,2024-08-16,195168,casuals
+708,Bookshelf,2024-09-26,71025,Furniture
+980,Headset,2024-09-11,447979,Electronics
+232,Gold Chain,2024-08-29,78084,Decoration
+351,Headphones,2024-09-27,85359,Electronics
+589,Printer,2024-09-04,219350,Electronics
+348,Cereal,2024-09-25,492906,groceries
+818,Mouse,2024-08-10,160248,Electronics
+371,Keyboard,2024-08-25,417523,Electronics
+636,Scarf,2024-08-15,306883,casuals
+742,Gloves,2024-09-02,440904,casuals
+770,Couch,2024-09-15,210942,Furniture
+844,Coconut,2024-09-21,331019,groceries
+439,Sweater,2024-09-06,498544,casuals
+594,Keyboard,2024-08-10,493452,Electronics
+292,Coat,2024-08-26,329200,casuals
+843,Desk,2024-08-14,12973,Furniture
+914,Headset,2024-08-09,463755,Electronics
+723,Watch,2024-08-04,132729,Electronics
+262,Headset,2024-09-07,67090,Electronics
+532,Coconut,2024-08-31,253317,groceries
+789,Wall Flowers,2024-09-03,114717,Decoration
+977,Headphones,2024-08-26,18051,Electronics
+192,Couch,2024-09-03,1903,Furniture
+144,Cabinet,2024-09-12,229363,Furniture
+991,Juice,2024-09-12,189850,groceries
+460,Hat,2024-08-19,101093,casuals
+800,Cheese,2024-09-10,456973,groceries
+690,Gold Chain,2024-08-18,16900,Decoration
+274,Webcam,2024-09-13,404595,Electronics
+713,Shirt,2024-08-10,495201,casuals
+835,Monitor,2024-08-28,368752,Electronics
+570,Scanner,2024-08-04,238943,Electronics
+559,Shirt,2024-08-14,253913,casuals
+314,Mouse,2024-09-25,88669,Electronics
+951,Belt,2024-09-26,298813,casuals
+374,Wall Flowers,2024-09-11,304561,Decoration
+213,Bread,2024-08-17,363406,groceries
+850,Eggs,2024-08-07,334137,groceries
+574,Wall Flowers,2024-08-28,326320,Decoration
+823,Wall Flowers,2024-08-25,190521,Decoration
+721,Coat,2024-09-22,113724,casuals
+456,Projector,2024-08-04,332858,Electronics
+287,Wall Flowers,2024-08-20,337529,Decoration
+902,Bookshelf,2024-08-06,360814,Furniture
+399,Couch,2024-08-22,364762,Furniture
+750,Camera,2024-09-05,238966,Electronics
+171,Scarf,2024-08-30,158,casuals
+349,Projector,2024-08-22,261993,Electronics
+320,Gold Chain,2024-09-12,3337,Decoration
+956,Coat,2024-09-29,270888,casuals
+371,Coconut,2024-09-10,45961,groceries
+336,Coconut,2024-08-06,258129,groceries
+347,Scarf,2024-09-28,103272,casuals
+992,Table,2024-09-24,314756,Furniture
+583,Gold Chain,2024-09-06,354757,Decoration
+809,Table,2024-08-02,320068,Furniture
+903,Wall Flowers,2024-09-20,248828,Decoration
+949,Banana,2024-08-02,26138,groceries
+309,Sweater,2024-08-16,37503,casuals
+668,Gold Chain,2024-08-21,238105,Decoration
+523,Wall Flowers,2024-09-30,23289,Decoration
+625,Gold Chain,2024-09-04,306233,Decoration
+328,Cabinet,2024-08-12,135506,Furniture
+449,Gold Chain,2024-08-29,178148,Decoration
+574,Cheese,2024-08-08,150907,groceries
+438,Camera,2024-08-12,465185,Electronics
+655,Speaker,2024-08-02,265925,Electronics
+903,Belt,2024-08-15,40770,casuals
+862,Headset,2024-08-16,361548,Electronics
+697,Wall Flowers,2024-09-05,167266,Decoration
+416,Laptop,2024-09-28,454819,Electronics
+152,Gold Chain,2024-09-19,201473,Decoration
+210,Projector,2024-08-17,194024,Electronics
+457,Mouse,2024-08-20,186653,Electronics
+616,Gold Chain,2024-09-08,191222,Decoration
+826,Webcam,2024-08-19,323136,Electronics
+475,Headset,2024-09-15,403898,Electronics
+797,Wall Flowers,2024-09-02,306916,Decoration
+482,Gloves,2024-09-28,208361,casuals
+133,Chocolate,2024-09-11,251631,groceries
+195,Gold Chain,2024-09-03,364231,Decoration
+625,Bookshelf,2024-09-27,228102,Furniture
+809,Coat,2024-08-19,310360,casuals
+304,Headset,2024-08-28,13049,Electronics
+598,Bed,2024-09-28,287227,Furniture
+303,Milk,2024-09-20,108515,groceries
+754,Cabinet,2024-08-24,204783,Furniture
+382,Shirt,2024-09-25,131464,casuals
+711,Projector,2024-09-24,464932,Electronics
+328,Wall Flowers,2024-08-28,63684,Decoration
+178,Wall Flowers,2024-08-24,309009,Decoration
+250,Bookshelf,2024-08-16,457663,Furniture
+658,Chocolate,2024-08-25,461484,groceries
+729,Gold Chain,2024-09-26,301114,Decoration
+611,Bread,2024-09-28,22244,groceries
+279,Mobile,2024-09-06,413370,Electronics
+627,Belt,2024-09-25,234605,casuals
+693,Apple,2024-08-07,367006,groceries
+560,Hat,2024-08-27,159671,casuals
+171,Wall Flowers,2024-09-13,388223,Decoration
+450,Table,2024-09-30,252185,Furniture
+775,Mobile,2024-09-15,279129,Electronics
+398,Gold Chain,2024-08-20,44699,Decoration
+797,Couch,2024-09-12,92831,Furniture
+447,Wall Flowers,2024-08-11,125424,Decoration
+460,Cabinet,2024-08-23,471515,Furniture
+711,Scanner,2024-09-06,472245,Electronics
+416,Desk,2024-08-06,391517,Furniture
+700,Hat,2024-08-07,408232,casuals
+470,Chocolate,2024-09-29,115703,groceries
+181,Cheese,2024-09-01,481034,groceries
+932,Desk,2024-08-27,190862,Furniture
+602,Desk,2024-09-17,373221,Furniture
+863,Mobile,2024-08-27,73747,Electronics
+743,Wall Flowers,2024-09-23,275848,Decoration
+562,Yogurt,2024-08-23,423833,groceries
+188,Jacket,2024-09-18,364904,casuals
+555,Banana,2024-09-25,275058,groceries
+705,Jeans,2024-09-19,38947,casuals
+877,Jacket,2024-08-16,496166,casuals
+791,Mouse,2024-09-11,353446,Electronics
+194,Mouse,2024-09-23,2201,Electronics
+466,Coat,2024-08-15,488957,casuals
+832,Cheese,2024-09-26,341931,groceries
+786,Shirt,2024-09-27,302607,casuals
+708,Router,2024-08-20,115809,Electronics
+957,Sweater,2024-08-19,300306,casuals
+531,Wall Flowers,2024-09-03,454779,Decoration
+175,Bookshelf,2024-08-21,7894,Furniture
+334,Gold Chain,2024-09-18,467186,Decoration
+632,Sweater,2024-08-28,418200,casuals
+214,Laptop,2024-09-23,425979,Electronics
+639,Milk,2024-09-16,322302,groceries
+200,Bookshelf,2024-08-28,242558,Furniture
+280,Coconut,2024-08-28,437082,groceries
+861,Webcam,2024-08-18,153988,Electronics
+208,Apple,2024-08-01,120641,groceries
+607,Mobile,2024-08-07,404267,Electronics
+226,Sweater,2024-08-12,475767,casuals
+906,Sofa,2024-08-30,297737,Furniture
+616,Headphones,2024-08-18,152188,Electronics
+512,Bed,2024-09-07,364154,Furniture
+367,Bed,2024-08-31,214343,Furniture
+287,Shirt,2024-09-23,163543,casuals
+907,Coconut,2024-09-20,364305,groceries
+288,T-shirt,2024-09-09,325262,casuals
+100,Webcam,2024-09-14,419033,Electronics
+679,Coffee,2024-08-07,128080,groceries
+210,Wall Flowers,2024-08-15,430613,Decoration
+193,Laptop,2024-08-17,339456,Electronics
+746,Milk,2024-08-22,478355,groceries
+162,Gold Chain,2024-08-12,347895,Decoration
+578,Jacket,2024-09-17,51260,casuals
+469,Orange,2024-08-27,426714,groceries
+465,Coffee,2024-09-13,108074,groceries
+545,Wall Flowers,2024-08-24,315244,Decoration
+551,Hat,2024-09-01,84232,casuals
+209,Wall Flowers,2024-09-19,47957,Decoration
+978,Belt,2024-09-10,363307,casuals
+315,Couch,2024-09-09,382524,Furniture
+377,Watch,2024-09-15,221800,Electronics
+516,Projector,2024-09-07,370521,Electronics
+348,Belt,2024-09-29,284872,casuals
+362,Wall Flowers,2024-08-10,194206,Decoration
+934,T-shirt,2024-08-27,408723,casuals
+358,Table,2024-08-24,294652,Furniture
+597,Bread,2024-08-28,4441,groceries
+136,Coconut,2024-08-25,256425,groceries
+165,Juice,2024-08-25,305483,groceries
+664,T-shirt,2024-08-09,71909,casuals
+422,Tablet,2024-08-12,7419,Electronics
+942,Boots,2024-08-19,104974,casuals
+150,Shirt,2024-09-10,178028,casuals
+672,Coat,2024-09-27,21681,casuals
+478,Desk,2024-09-25,248551,Furniture
+219,Headset,2024-08-31,268022,Electronics
+443,Chair,2024-08-12,153863,Furniture
+334,Desk,2024-08-26,195455,Furniture
+577,Bed,2024-09-25,424319,Furniture
+122,Wall Flowers,2024-08-08,369198,Decoration
+249,Watch,2024-08-14,443506,Electronics
+578,Cabinet,2024-09-30,198272,Furniture
+447,Coconut,2024-09-18,379647,groceries
+312,Monitor,2024-08-18,357700,Electronics
+206,Gold Chain,2024-09-15,293029,Decoration
+763,Chocolate,2024-08-10,465277,groceries
+978,Scarf,2024-08-13,303414,casuals
+610,Wall Flowers,2024-08-20,472908,Decoration
+157,Desk,2024-08-29,108770,Furniture
+898,Belt,2024-09-21,53040,casuals
+531,Jeans,2024-08-26,222929,casuals
+671,Chocolate,2024-09-03,389789,groceries
+130,Wall Flowers,2024-09-22,216513,Decoration
+641,Boots,2024-09-22,166733,casuals
+338,Wall Flowers,2024-08-25,311028,Decoration
+187,Printer,2024-08-17,469816,Electronics
+510,Hat,2024-08-26,349363,casuals
+847,Coat,2024-08-17,451173,casuals
+729,Gold Chain,2024-09-04,85155,Decoration
+825,Gold Chain,2024-09-07,185167,Decoration
+846,Scarf,2024-08-20,320007,casuals
+435,Coffee,2024-08-30,27107,groceries
+345,Couch,2024-08-19,208899,Furniture
+378,Wall Flowers,2024-08-30,391246,Decoration
+768,Orange,2024-09-18,360669,groceries
+758,Wall Flowers,2024-09-13,8319,Decoration
+425,Headset,2024-09-25,140800,Electronics
+822,Bookshelf,2024-08-19,1432,Furniture
+922,Gold Chain,2024-08-04,124270,Decoration
+978,Gold Chain,2024-08-22,325477,Decoration
+892,Projector,2024-09-11,451540,Electronics
+829,Wall Flowers,2024-08-08,117833,Decoration
+534,Bed,2024-09-19,257860,Furniture
+883,Belt,2024-08-26,163905,casuals
+677,Couch,2024-09-27,159825,Furniture
+333,Banana,2024-09-05,193742,groceries
+990,Wall Flowers,2024-09-10,183484,Decoration
+480,Banana,2024-08-31,231578,groceries
+494,Bed,2024-09-04,442886,Furniture
+129,Camera,2024-08-14,131735,Electronics
+705,Table,2024-08-09,262470,Furniture
+419,Rice Packet,2024-08-17,93968,groceries
+257,Banana,2024-08-17,92489,groceries
+601,Camera,2024-09-29,424823,Electronics
+521,Gold Chain,2024-08-06,28920,Decoration
+846,Bread,2024-09-27,15079,groceries
+891,Chair,2024-09-30,131563,Furniture
+493,Cabinet,2024-09-13,277209,Furniture
+798,Wall Flowers,2024-08-01,40778,Decoration
+411,Gold Chain,2024-09-22,244069,Decoration
+904,Headset,2024-09-13,129767,Electronics
+980,Desk,2024-08-14,391108,Furniture
+912,Hat,2024-09-04,155733,casuals
+842,Gold Chain,2024-09-30,116984,Decoration
+379,Hat,2024-08-12,277424,casuals
+824,T-shirt,2024-09-30,262551,casuals
+413,Boots,2024-08-01,26495,casuals
+955,Wall Flowers,2024-09-23,95691,Decoration
+887,Belt,2024-09-25,302107,casuals
+102,Couch,2024-09-01,335390,Furniture
+473,Wall Flowers,2024-08-11,113564,Decoration
+407,Yogurt,2024-08-03,21138,groceries
+585,Couch,2024-08-04,28158,Furniture
+364,Coat,2024-08-15,321235,casuals
+855,Wall Flowers,2024-08-10,171938,Decoration
+619,Cabinet,2024-08-23,64435,Furniture
+307,Watch,2024-08-28,117609,Electronics
+629,Mobile,2024-09-09,197488,Electronics
+552,Cabinet,2024-09-29,484330,Furniture
+525,Couch,2024-09-22,166043,Furniture
+435,Camera,2024-08-25,32486,Electronics
+905,Monitor,2024-08-04,292918,Electronics
+344,Couch,2024-09-09,71351,Furniture
+317,Tablet,2024-08-12,389958,Electronics
+971,Gold Chain,2024-09-14,295715,Decoration
+278,Cereal,2024-08-17,144980,groceries
+803,Chocolate,2024-08-02,338293,groceries
+316,Wall Flowers,2024-09-29,126887,Decoration
+436,Desk,2024-08-07,421360,Furniture
+318,Coat,2024-08-23,36845,casuals
+420,Sofa,2024-09-30,200754,Furniture
+455,Milk,2024-08-07,106075,groceries
+576,Gloves,2024-08-01,307456,casuals
+696,Yogurt,2024-09-15,302198,groceries
+613,Gloves,2024-09-22,120569,casuals
+763,Bed,2024-08-23,365417,Furniture
+779,Bread,2024-09-30,251091,groceries
+764,Bed,2024-08-29,236799,Furniture
+573,Chair,2024-08-12,413053,Furniture
+785,Boots,2024-08-03,183117,casuals
+892,Laptop,2024-08-27,413081,Electronics
+482,Cheese,2024-09-04,244270,groceries
+370,Scarf,2024-08-24,378085,casuals
+399,Gold Chain,2024-08-07,31662,Decoration
+871,Cabinet,2024-08-12,263146,Furniture
+831,Scanner,2024-09-20,8789,Electronics
+124,Sofa,2024-09-14,201467,Furniture
+244,Keyboard,2024-08-10,333759,Electronics
+601,Bookshelf,2024-09-02,317392,Furniture
+294,Chair,2024-08-12,482455,Furniture
+745,Projector,2024-08-15,257331,Electronics
+351,Eggs,2024-09-08,327078,groceries
+581,Cheese,2024-09-10,275146,groceries
+637,Couch,2024-08-19,428406,Furniture
+629,Yogurt,2024-09-01,37084,groceries
+943,Juice,2024-09-11,38132,groceries
+607,Yogurt,2024-08-30,264571,groceries
+136,Coffee,2024-09-27,479060,groceries
+196,Couch,2024-08-30,275292,Furniture
+175,Wall Flowers,2024-08-15,478191,Decoration
+808,Milk,2024-09-13,256819,groceries
+720,Cheese,2024-09-15,78949,groceries
+881,Yogurt,2024-09-11,137271,groceries
+394,Wall Flowers,2024-08-16,310700,Decoration
+602,Sofa,2024-09-11,151428,Furniture
+971,Hat,2024-09-16,262019,casuals
+536,Table,2024-08-21,332312,Furniture
+691,Jeans,2024-09-01,394073,casuals
+867,Desk,2024-08-17,286756,Furniture
+129,Chocolate,2024-08-28,441987,groceries
+351,Monitor,2024-09-25,467157,Electronics
+733,Jacket,2024-08-23,341053,casuals
+276,Chair,2024-09-17,330143,Furniture
+328,Chair,2024-08-01,28328,Furniture
+636,Desk,2024-09-22,496201,Furniture
+764,Coffee,2024-08-10,335579,groceries
+796,Router,2024-09-02,199922,Electronics
+113,Gold Chain,2024-09-30,265794,Decoration
+339,Headphones,2024-09-06,465784,Electronics
+129,Gold Chain,2024-09-11,261115,Decoration
+580,Chocolate,2024-08-08,347812,groceries
+296,Coffee,2024-08-10,168301,groceries
+623,Router,2024-09-13,424107,Electronics
+621,Couch,2024-08-22,451903,Furniture
+704,Wall Flowers,2024-08-25,401928,Decoration
+134,Bookshelf,2024-09-28,176635,Furniture
+831,Bed,2024-08-16,25851,Furniture
+765,Jeans,2024-08-31,60735,casuals
+196,Coffee,2024-08-23,95657,groceries
+196,Printer,2024-08-07,66519,Electronics
+566,Router,2024-09-30,218479,Electronics
+215,Wall Flowers,2024-08-13,15294,Decoration
+340,Wall Flowers,2024-08-23,357078,Decoration
+299,Monitor,2024-08-16,123906,Electronics
+445,Orange,2024-08-27,25934,groceries
+210,Keyboard,2024-08-05,452871,Electronics
+165,TV,2024-08-15,84788,Electronics
+769,Mouse,2024-09-21,176711,Electronics
+394,Coffee,2024-08-07,206131,groceries
+468,Cabinet,2024-09-21,151166,Furniture
+442,Projector,2024-09-17,329696,Electronics
+499,Camera,2024-08-25,98189,Electronics
+334,Rice Packet,2024-09-14,337995,groceries
+860,T-shirt,2024-08-21,445715,casuals
+406,Wall Flowers,2024-08-04,18057,Decoration
+276,TV,2024-08-17,390985,Electronics
+404,Gold Chain,2024-08-29,479372,Decoration
+688,Gold Chain,2024-09-09,302509,Decoration
+535,Wall Flowers,2024-09-01,426063,Decoration
+224,Jeans,2024-09-16,273065,casuals
+711,Table,2024-08-19,393494,Furniture
+274,Coat,2024-08-06,7389,casuals
+895,Webcam,2024-09-03,465114,Electronics
+359,Coconut,2024-09-08,173304,groceries
+179,Mouse,2024-09-03,228877,Electronics
+642,Watch,2024-09-22,653,Electronics
+763,Couch,2024-08-24,146821,Furniture
+383,Gold Chain,2024-08-17,450757,Decoration
+453,Boots,2024-08-17,221759,casuals
+653,TV,2024-09-26,113304,Electronics
+456,Chair,2024-08-14,143785,Furniture
+871,Wall Flowers,2024-08-23,346975,Decoration
+898,Wall Flowers,2024-09-08,283182,Decoration
+465,Shirt,2024-08-18,473181,casuals
+501,Gold Chain,2024-09-30,44335,Decoration
+201,Camera,2024-09-09,212852,Electronics
+861,Couch,2024-09-09,17097,Furniture
+204,Coffee,2024-08-08,380200,groceries
+335,Cheese,2024-08-25,257646,groceries
+982,Shirt,2024-09-21,310291,casuals
+794,Belt,2024-09-01,174997,casuals
+867,Chair,2024-08-25,367936,Furniture
+495,Wall Flowers,2024-08-22,496620,Decoration
+964,Bookshelf,2024-09-25,336131,Furniture
+530,Bookshelf,2024-08-06,286370,Furniture
+735,Jeans,2024-09-02,206318,casuals
+633,Gloves,2024-09-10,332476,casuals
+465,Coconut,2024-09-21,247275,groceries
+962,Webcam,2024-08-31,138286,Electronics
+320,Wall Flowers,2024-09-19,276906,Decoration
+384,Boots,2024-09-26,133180,casuals
+730,Chair,2024-08-20,68013,Furniture
+578,Headphones,2024-08-16,401229,Electronics
+694,Coffee,2024-08-18,44478,groceries
+998,Table,2024-08-06,332614,Furniture
+365,Wall Flowers,2024-08-08,436301,Decoration
+912,Rice Packet,2024-09-13,16166,groceries
+835,Tablet,2024-09-19,375536,Electronics
+843,Sofa,2024-08-16,461372,Furniture
+582,Mouse,2024-08-31,256418,Electronics
+837,Bread,2024-09-17,49712,groceries
+790,Cabinet,2024-09-06,284899,Furniture
+572,Mobile,2024-09-24,113137,Electronics
+612,Laptop,2024-09-03,465684,Electronics
+365,Apple,2024-09-10,74915,groceries
+694,Mouse,2024-09-17,424315,Electronics
+835,Hat,2024-08-28,140310,casuals
+729,Gold Chain,2024-09-11,390952,Decoration
+985,Wall Flowers,2024-08-07,355753,Decoration
+779,Orange,2024-08-16,48670,groceries
+665,Belt,2024-09-05,118569,casuals
+530,Coffee,2024-09-01,392472,groceries
+860,Shirt,2024-09-09,418309,casuals
+227,Gold Chain,2024-09-25,19917,Decoration
+395,Coat,2024-08-15,299232,casuals
+889,Gloves,2024-09-20,162629,casuals
+880,Headphones,2024-09-05,474434,Electronics
+587,Mouse,2024-08-29,101184,Electronics
+908,Bed,2024-09-09,492846,Furniture
+934,Bed,2024-08-12,453130,Furniture
+243,Sweater,2024-08-22,72872,casuals
+400,Gold Chain,2024-08-02,280800,Decoration
+185,Speaker,2024-08-26,373042,Electronics
+739,Cereal,2024-08-30,379900,groceries
+277,Wall Flowers,2024-09-28,183099,Decoration
+752,Rice Packet,2024-08-28,300993,groceries
+829,Gold Chain,2024-08-16,474406,Decoration
+488,Hat,2024-08-22,484445,casuals
+555,Juice,2024-09-28,74227,groceries
+851,Jeans,2024-09-26,219283,casuals
+465,Juice,2024-09-21,59087,groceries
+292,Yogurt,2024-08-28,109243,groceries
+257,Sweater,2024-08-05,391928,casuals
+457,Boots,2024-09-13,389012,casuals
+900,Couch,2024-09-22,15517,Furniture
+629,Desk,2024-08-04,72874,Furniture
+544,Shirt,2024-08-15,451736,casuals
+770,Juice,2024-09-06,53185,groceries
+140,Yogurt,2024-08-03,387848,groceries
+931,Eggs,2024-08-08,482279,groceries
+717,Orange,2024-08-29,377177,groceries
+642,Coconut,2024-09-06,125471,groceries
+949,Banana,2024-08-20,79213,groceries
+609,Coat,2024-08-31,197375,casuals
+998,Table,2024-09-12,357608,Furniture
+294,Projector,2024-09-07,50274,Electronics
+196,Wall Flowers,2024-09-23,260372,Decoration
+756,Mouse,2024-09-14,266350,Electronics
+583,Eggs,2024-09-20,50511,groceries
+296,Desk,2024-08-06,303416,Furniture
+349,Webcam,2024-08-26,455799,Electronics
+905,Milk,2024-09-30,296086,groceries
+248,Eggs,2024-09-27,413101,groceries
+780,Boots,2024-08-22,470947,casuals
+865,Coffee,2024-09-30,214769,groceries
+709,Chocolate,2024-09-20,431061,groceries
+810,Scanner,2024-08-24,3041,Electronics
+567,Headphones,2024-08-31,384861,Electronics
+324,Bed,2024-08-13,423068,Furniture
+654,Wall Flowers,2024-08-05,212295,Decoration
+385,Watch,2024-09-27,42066,Electronics
+391,Eggs,2024-08-08,59517,groceries
+359,Scanner,2024-09-29,466729,Electronics
+141,Cheese,2024-08-20,467680,groceries
+122,Wall Flowers,2024-08-20,102230,Decoration
+398,Hat,2024-08-06,372333,casuals
+519,Sofa,2024-09-18,339892,Furniture
+741,Yogurt,2024-08-28,426067,groceries
+734,Cereal,2024-08-06,352646,groceries
+709,Wall Flowers,2024-09-27,344654,Decoration
+211,Cereal,2024-08-11,369618,groceries
+143,Hat,2024-08-10,331560,casuals
+324,Jacket,2024-08-21,390525,casuals
+227,Shirt,2024-09-07,102040,casuals
+382,Orange,2024-09-04,288280,groceries
+868,Bread,2024-08-06,52312,groceries
+354,Gold Chain,2024-09-24,337077,Decoration
+167,Cabinet,2024-09-13,243484,Furniture
+790,Webcam,2024-09-01,146045,Electronics
+461,Couch,2024-09-08,30829,Furniture
+823,Wall Flowers,2024-08-29,311418,Decoration
+462,Router,2024-08-12,407288,Electronics
+905,Desk,2024-08-23,399922,Furniture
+275,Apple,2024-08-20,55061,groceries
+930,Wall Flowers,2024-08-26,123374,Decoration
+189,Gold Chain,2024-08-16,165342,Decoration
+576,Bookshelf,2024-08-28,453635,Furniture
+996,Bread,2024-08-23,41962,groceries
+592,Printer,2024-09-13,29864,Electronics
+154,Eggs,2024-09-24,32398,groceries
+345,Belt,2024-08-30,65349,casuals
+593,Bookshelf,2024-08-16,14513,Furniture
+449,Wall Flowers,2024-08-16,4302,Decoration
+950,Eggs,2024-08-28,136514,groceries
+473,Wall Flowers,2024-08-24,275036,Decoration
+619,Eggs,2024-09-27,57419,groceries
+591,T-shirt,2024-09-21,71812,casuals
+203,Couch,2024-08-19,262924,Furniture
+390,Wall Flowers,2024-08-26,343139,Decoration
+210,Gold Chain,2024-08-28,101953,Decoration
+394,Coconut,2024-08-08,93057,groceries
+320,Bread,2024-08-19,15983,groceries
+301,Gold Chain,2024-08-19,219901,Decoration
+146,Tablet,2024-08-29,93986,Electronics
+530,Belt,2024-08-23,205966,casuals
+660,Orange,2024-09-23,92975,groceries
+513,Apple,2024-08-16,375351,groceries
+996,Gold Chain,2024-09-27,340004,Decoration
+392,Speaker,2024-08-27,127660,Electronics
+925,Router,2024-09-25,180751,Electronics
+255,Camera,2024-08-21,327217,Electronics
+983,Orange,2024-09-03,393144,groceries
+921,Desk,2024-08-22,200223,Furniture
+650,Scarf,2024-09-30,499483,casuals
+245,Wall Flowers,2024-09-03,234299,Decoration
+569,Monitor,2024-09-27,172919,Electronics
+752,Yogurt,2024-09-24,451063,groceries
+253,Headphones,2024-09-10,312392,Electronics
+759,Mouse,2024-08-03,354211,Electronics
+914,Gold Chain,2024-08-31,368286,Decoration
+517,Wall Flowers,2024-08-22,68554,Decoration
+624,Wall Flowers,2024-08-30,17761,Decoration
+141,Chocolate,2024-09-05,296191,groceries
+785,Orange,2024-09-16,342431,groceries
+748,T-shirt,2024-08-04,149442,casuals
+930,Hat,2024-08-28,358244,casuals
+990,Keyboard,2024-08-29,393885,Electronics
+523,Cereal,2024-09-30,334580,groceries
+705,Desk,2024-08-12,60660,Furniture
+254,Headphones,2024-09-21,424473,Electronics
+943,Couch,2024-08-11,97132,Furniture
+556,Chair,2024-09-06,97136,Furniture
+957,Speaker,2024-08-30,116061,Electronics
